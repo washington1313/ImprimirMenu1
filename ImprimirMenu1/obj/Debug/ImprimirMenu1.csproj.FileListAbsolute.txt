@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirMenu1\ImprimirMenu1\bin\Debug\ImprimirMenu1.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirMenu1\ImprimirMenu1\bin\Debug\ImprimirMenu1.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirMenu1\ImprimirMenu1\bin\Debug\ImprimirMenu1.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirMenu1\ImprimirMenu1\obj\Debug\ImprimirMenu1.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirMenu1\ImprimirMenu1\obj\Debug\ImprimirMenu1.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirMenu1\ImprimirMenu1\obj\Debug\ImprimirMenu1.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirMenu1\ImprimirMenu1\obj\Debug\ImprimirMenu1.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirMenu1\ImprimirMenu1\obj\Debug\ImprimirMenu1.pdb
