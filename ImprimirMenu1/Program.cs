@@ -9,12 +9,12 @@ namespace ImprimirMenu1
             Console.WriteLine("Digite seu nome:");
             string nomeInformado = Console.ReadLine();
             Console.Clear();
-            ImprimindoMenuFinal(nomeInformado);
+            ImprimirMenuFinal(nomeInformado);
 
             Console.ReadKey();
         }
 
-        static void ImprimindoMenuFinal(string nomeUsuario)
+        static void ImprimirMenuFinal(string nomeUsuario)
         {
             Console.ForegroundColor= ConsoleColor.DarkRed;
             Console.WriteLine("########## MENU ##########");
